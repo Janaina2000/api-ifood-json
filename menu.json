@@ -666,6 +666,128 @@
                     }
                 }
             ]
-        }
+        },
+        "frutas": [
+            {
+                "nome": "Laranja",
+                "preco_por_grama": 0.04,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 90,
+                    "carboidratos": 22,
+                    "proteinas": 1,
+                    "gorduras": 0.2,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Limão",
+                "preco_por_grama": 0.03,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 40,
+                    "carboidratos": 9,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 2
+                }
+            },
+            {
+                "nome": "Melancia",
+                "preco_por_grama": 0.02,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 45,
+                    "carboidratos": 12,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Abacaxi",
+                "preco_por_grama": 0.05,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 60,
+                    "carboidratos": 16,
+                    "proteinas": 1,
+                    "gorduras": 0.3,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Morango",
+                "preco_por_grama": 0.07,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 55,
+                    "carboidratos": 14,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 2
+                }
+            },
+            {
+                "nome": "Abacate",
+                "preco_por_grama": 0.09,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 180,
+                    "carboidratos": 25,
+                    "proteinas": 2,
+                    "gorduras": 9,
+                    "fibras": 3
+                }
+            },
+            {
+                "nome": "Uva",
+                "preco_por_grama": 0.05,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 120,
+                    "carboidratos": 30,
+                    "proteinas": 1,
+                    "gorduras": 0.2,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Pêssego",
+                "preco_por_grama": 0.05,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 70,
+                    "carboidratos": 17,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 2
+                }
+            },
+            {
+                "nome": "Pera",
+                "preco_por_grama": 0.05,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 100,
+                    "carboidratos": 26,
+                    "proteinas": 1,
+                    "gorduras": 0.3,
+                    "fibras": 4
+                }
+            },
+            {
+                "nome": "Manga",
+                "preco_por_grama": 0.07,
+                "quantidade": "200ml",
+                "tabela_nutricional": {
+                    "calorias": 150,
+                    "carboidratos": 39,
+                    "proteinas": 1,
+                    "gorduras": 0.6,
+                    "fibras": 3
+                }
+            }
+        ]
     }
-},
+}
