@@ -1,0 +1,671 @@
+{
+    "cardapio": {
+        "refeicao": {
+            "proteinas": [
+                {
+                    "nome": "Frango Grelhado",
+                    "preco_por_grama": 0.05,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 31,
+                        "carboidratos": 0,
+                        "gorduras": 3,
+                        "fibras": 0,
+                        "calorias": 165
+                    }
+                },
+                {
+                    "nome": "Carne de Sol",
+                    "preco_por_grama": 0.07,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 26,
+                        "carboidratos": 0,
+                        "gorduras": 9,
+                        "fibras": 0,
+                        "calorias": 230
+                    }
+                },
+                {
+                    "nome": "Peito de Frango Cozido",
+                    "preco_por_grama": 0.06,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 30,
+                        "carboidratos": 0,
+                        "gorduras": 4,
+                        "fibras": 0,
+                        "calorias": 165
+                    }
+                },
+                {
+                    "nome": "Peixe (Tilápia)",
+                    "preco_por_grama": 0.08,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 26,
+                        "carboidratos": 0,
+                        "gorduras": 4,
+                        "fibras": 0,
+                        "calorias": 190
+                    }
+                },
+                {
+                    "nome": "Carne Moída",
+                    "preco_por_grama": 0.09,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 26,
+                        "carboidratos": 0,
+                        "gorduras": 15,
+                        "fibras": 0,
+                        "calorias": 250
+                    }
+                },
+                {
+                    "nome": "Peito de Frango Grelhado",
+                    "preco_por_grama": 0.05,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 31,
+                        "carboidratos": 0,
+                        "gorduras": 3,
+                        "fibras": 0,
+                        "calorias": 165
+                    }
+                },
+                {
+                    "nome": "Ovos Cozidos",
+                    "preco_por_grama": 0.05,
+                    "quantidade": "50g",
+                    "tabela_nutricional": {
+                        "proteinas": 6,
+                        "carboidratos": 0.5,
+                        "gorduras": 5,
+                        "fibras": 0,
+                        "calorias": 70
+                    }
+                },
+                {
+                    "nome": "Cogumelos",
+                    "preco_por_grama": 0.03,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 3,
+                        "carboidratos": 7,
+                        "gorduras": 0.3,
+                        "fibras": 2,
+                        "calorias": 22
+                    }
+                }
+            ],
+            "carboidratos": [
+                {
+                    "nome": "Arroz Integral",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 2,
+                        "carboidratos": 23,
+                        "gorduras": 1,
+                        "fibras": 2,
+                        "calorias": 111
+                    }
+                },
+                {
+                    "nome": "Arroz Branco",
+                    "preco_por_grama": 0.03,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 2,
+                        "carboidratos": 28,
+                        "gorduras": 0.2,
+                        "fibras": 0.3,
+                        "calorias": 130
+                    }
+                },
+                {
+                    "nome": "Macarrão Integral",
+                    "preco_por_grama": 0.04,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 7,
+                        "carboidratos": 27,
+                        "gorduras": 1.5,
+                        "fibras": 3,
+                        "calorias": 174
+                    }
+                },
+                {
+                    "nome": "Batata Doce",
+                    "preco_por_grama": 0.04,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 2,
+                        "carboidratos": 20,
+                        "gorduras": 1,
+                        "fibras": 3,
+                        "calorias": 86
+                    }
+                },
+                {
+                    "nome": "Batata Inglesa",
+                    "preco_por_grama": 0.03,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 2,
+                        "carboidratos": 17,
+                        "gorduras": 0.1,
+                        "fibras": 2,
+                        "calorias": 77
+                    }
+                },
+                {
+                    "nome": "Abobrinha",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1,
+                        "carboidratos": 3,
+                        "gorduras": 0.1,
+                        "fibras": 1,
+                        "calorias": 17
+                    }
+                },
+                {
+                    "nome": "Cenoura",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1,
+                        "carboidratos": 10,
+                        "gorduras": 0.2,
+                        "fibras": 3,
+                        "calorias": 41
+                    }
+                },
+                {
+                    "nome": "Quinoa",
+                    "preco_por_grama": 0.07,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 4,
+                        "carboidratos": 21,
+                        "gorduras": 2,
+                        "fibras": 3,
+                        "calorias": 120
+                    }
+                }
+            ],
+            "gorduras": [
+                {
+                    "nome": "Abacate",
+                    "preco_por_grama": 0.10,
+                    "quantidade": "50g",
+                    "tabela_nutricional": {
+                        "proteinas": 1,
+                        "carboidratos": 9,
+                        "gorduras": 15,
+                        "fibras": 7,
+                        "calorias": 160
+                    }
+                },
+                {
+                    "nome": "Amêndoas",
+                    "preco_por_grama": 0.08,
+                    "quantidade": "30g",
+                    "tabela_nutricional": {
+                        "proteinas": 6,
+                        "carboidratos": 6,
+                        "gorduras": 14,
+                        "fibras": 4,
+                        "calorias": 160
+                    }
+                },
+                {
+                    "nome": "Salmão",
+                    "preco_por_grama": 0.12,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 22,
+                        "carboidratos": 0,
+                        "gorduras": 12,
+                        "fibras": 0,
+                        "calorias": 208
+                    }
+                },
+                {
+                    "nome": "Castanha do Pará",
+                    "preco_por_grama": 0.10,
+                    "quantidade": "30g",
+                    "tabela_nutricional": {
+                        "proteinas": 4,
+                        "carboidratos": 4,
+                        "gorduras": 19,
+                        "fibras": 3,
+                        "calorias": 200
+                    }
+                },
+                {
+                    "nome": "Azeitona",
+                    "preco_por_grama": 0.07,
+                    "quantidade": "30g",
+                    "tabela_nutricional": {
+                        "proteinas": 0.5,
+                        "carboidratos": 2,
+                        "gorduras": 3,
+                        "fibras": 2,
+                        "calorias": 35
+                    }
+                }
+            ]
+        },
+        "sucos": [
+            {
+                "nome": "Suco de Laranja",
+                "preco_por_grama": 0.04,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Laranja",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 90,
+                    "carboidratos": 22,
+                    "proteinas": 1,
+                    "gorduras": 0.2,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Suco de Limão com Hortelã",
+                "preco_por_grama": 0.03,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Limão",
+                    "Hortelã",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 40,
+                    "carboidratos": 9,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 2
+                }
+            },
+            {
+                "nome": "Suco de Melancia",
+                "preco_por_grama": 0.02,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Melancia",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 45,
+                    "carboidratos": 12,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Suco de Abacaxi com Hortelã",
+                "preco_por_grama": 0.05,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Abacaxi",
+                    "Hortelã",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 60,
+                    "carboidratos": 16,
+                    "proteinas": 1,
+                    "gorduras": 0.3,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Suco Verde (Couve, Limão, Maçã e Gengibre)",
+                "preco_por_grama": 0.06,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Couve",
+                    "Limão",
+                    "Maçã",
+                    "Gengibre",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 50,
+                    "carboidratos": 13,
+                    "proteinas": 1,
+                    "gorduras": 0.5,
+                    "fibras": 3
+                }
+            },
+            {
+                "nome": "Suco de Morango com Limão",
+                "preco_por_grama": 0.07,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Morango",
+                    "Limão",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 55,
+                    "carboidratos": 14,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 2
+                }
+            },
+            {
+                "nome": "Suco de Abacate com Laranja",
+                "preco_por_grama": 0.09,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Abacate",
+                    "Laranja",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 180,
+                    "carboidratos": 25,
+                    "proteinas": 2,
+                    "gorduras": 9,
+                    "fibras": 3
+                }
+            },
+            {
+                "nome": "Suco de Cenoura com Laranja",
+                "preco_por_grama": 0.04,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Cenoura",
+                    "Laranja",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 70,
+                    "carboidratos": 18,
+                    "proteinas": 1,
+                    "gorduras": 0.5,
+                    "fibras": 3
+                }
+            },
+            {
+                "nome": "Suco de Uva Integral",
+                "preco_por_grama": 0.05,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Uva"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 120,
+                    "carboidratos": 30,
+                    "proteinas": 1,
+                    "gorduras": 0.2,
+                    "fibras": 1
+                }
+            },
+            {
+                "nome": "Suco de Pêssego",
+                "preco_por_grama": 0.05,
+                "quantidade": "200ml",
+                "ingredientes": [
+                    "Pêssego",
+                    "Água"
+                ],
+                "tabela_nutricional": {
+                    "calorias": 70,
+                    "carboidratos": 17,
+                    "proteinas": 1,
+                    "gorduras": 0,
+                    "fibras": 2
+                }
+            }
+        ],
+        "saladas": {
+            "folhas": [
+                {
+                    "nome": "Alface",
+                    "preco_por_grama": 0.01,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1,
+                        "carboidratos": 4,
+                        "gorduras": 0,
+                        "fibras": 2,
+                        "calorias": 14
+                    }
+                },
+                {
+                    "nome": "Rúcula",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 2,
+                        "carboidratos": 3,
+                        "gorduras": 0.7,
+                        "fibras": 2,
+                        "calorias": 25
+                    }
+                },
+                {
+                    "nome": "Espinafre",
+                    "preco_por_grama": 0.04,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 3,
+                        "carboidratos": 6,
+                        "gorduras": 1,
+                        "fibras": 2,
+                        "calorias": 23
+                    }
+                },
+                {
+                    "nome": "Almeirão",
+                    "preco_por_grama": 0.03,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 2,
+                        "carboidratos": 3,
+                        "gorduras": 0.5,
+                        "fibras": 3,
+                        "calorias": 20
+                    }
+                }
+            ],
+            "legumes": [
+                {
+                    "nome": "Cenoura",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1,
+                        "carboidratos": 10,
+                        "gorduras": 0.2,
+                        "fibras": 3,
+                        "calorias": 41
+                    }
+                },
+                {
+                    "nome": "Beterraba",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1.5,
+                        "carboidratos": 10,
+                        "gorduras": 0.2,
+                        "fibras": 3,
+                        "calorias": 43
+                    }
+                },
+                {
+                    "nome": "Pepino",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1,
+                        "carboidratos": 4,
+                        "gorduras": 0,
+                        "fibras": 1,
+                        "calorias": 16
+                    }
+                },
+                {
+                    "nome": "Abobrinha",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1,
+                        "carboidratos": 3,
+                        "gorduras": 0.1,
+                        "fibras": 1,
+                        "calorias": 17
+                    }
+                },
+                {
+                    "nome": "Cogumelos",
+                    "preco_por_grama": 0.03,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 3,
+                        "carboidratos": 7,
+                        "gorduras": 0.3,
+                        "fibras": 2,
+                        "calorias": 22
+                    }
+                },
+                {
+                    "nome": "Repolho",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 1.3,
+                        "carboidratos": 6,
+                        "gorduras": 0.1,
+                        "fibras": 3,
+                        "calorias": 25
+                    }
+                }
+            ],
+            "temperos": [
+                {
+                    "nome": "Azeite de Oliva",
+                    "preco_por_grama": 0.07,
+                    "quantidade": "15g",
+                    "tabela_nutricional": {
+                        "proteinas": 0,
+                        "carboidratos": 0,
+                        "gorduras": 15,
+                        "fibras": 0,
+                        "calorias": 135
+                    }
+                },
+                {
+                    "nome": "Limão",
+                    "preco_por_grama": 0.02,
+                    "quantidade": "10g",
+                    "tabela_nutricional": {
+                        "proteinas": 0.1,
+                        "carboidratos": 1,
+                        "gorduras": 0,
+                        "fibras": 0.2,
+                        "calorias": 5
+                    }
+                },
+                {
+                    "nome": "Sal",
+                    "preco_por_grama": 0.01,
+                    "quantidade": "5g",
+                    "tabela_nutricional": {
+                        "proteinas": 0,
+                        "carboidratos": 0,
+                        "gorduras": 0,
+                        "fibras": 0,
+                        "calorias": 0
+                    }
+                },
+                {
+                    "nome": "Pimenta-do-reino",
+                    "preco_por_grama": 0.05,
+                    "quantidade": "1g",
+                    "tabela_nutricional": {
+                        "proteinas": 0.1,
+                        "carboidratos": 0.5,
+                        "gorduras": 0.1,
+                        "fibras": 0.3,
+                        "calorias": 6
+                    }
+                }
+            ],
+            "proteinas_adicionais": [
+                {
+                    "nome": "Frango Desfiado",
+                    "preco_por_grama": 0.06,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 30,
+                        "carboidratos": 0,
+                        "gorduras": 3,
+                        "fibras": 0,
+                        "calorias": 160
+                    }
+                },
+                {
+                    "nome": "Atum Desfiado",
+                    "preco_por_grama": 0.08,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 25,
+                        "carboidratos": 0,
+                        "gorduras": 3,
+                        "fibras": 0,
+                        "calorias": 160
+                    }
+                },
+                {
+                    "nome": "Peito de Frango Desfiado",
+                    "preco_por_grama": 0.07,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 32,
+                        "carboidratos": 0,
+                        "gorduras": 4,
+                        "fibras": 0,
+                        "calorias": 170
+                    }
+                },
+                {
+                    "nome": "Queijo Cottage",
+                    "preco_por_grama": 0.05,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 11,
+                        "carboidratos": 4,
+                        "gorduras": 5,
+                        "fibras": 0,
+                        "calorias": 98
+                    }
+                },
+                {
+                    "nome": "Queijo Minas Frescal",
+                    "preco_por_grama": 0.07,
+                    "quantidade": "100g",
+                    "tabela_nutricional": {
+                        "proteinas": 15,
+                        "carboidratos": 3,
+                        "gorduras": 10,
+                        "fibras": 0,
+                        "calorias": 190
+                    }
+                }
+            ]
+        }
+    }
+},
