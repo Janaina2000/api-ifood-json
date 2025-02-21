@@ -1,18 +1,11 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha API</title>
-</head>
 <body>
     <h1>Minha API de Dados JSON</h1>
 
+    <div id="data-container"></div> <!-- Área para exibir os dados -->
+
     <script>
-        // URL onde o arquivo JSON está hospedado
         const url = "https://janaina2000.github.io/api-ifood-json/api.json";
 
-        // Função para buscar o arquivo JSON e manipular os dados
         fetch(url)
             .then(response => {
                 if (!response.ok) {
@@ -22,11 +15,12 @@
             })
             .then(data => {
                 console.log("Dados recebidos:", data);
-                // Aqui você pode usar os dados como preferir
+                // Exibir os dados na página
+                const container = document.getElementById("data-container");
+                container.innerHTML = JSON.stringify(data, null, 2); // Exibe os dados formatados
             })
             .catch(error => {
                 console.error("Erro ao acessar a API:", error);
             });
     </script>
 </body>
-</html>
