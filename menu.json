@@ -674,6 +674,7 @@
         "sucos": [
             {
                 "nome": "Suco Verde (Couve, Limão, Maçã e Gengibre)",
+                "image": "./images/cardapio/sucos/suco-verde.webp",
                 "preco_por_grama": 0.06,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -692,12 +693,12 @@
                 }
             },
             {
-                "nome": "Suco de Abacate com Laranja",
+                "nome": "Suco de Abacate",
                 "preco_por_grama": 0.09,
+                "image": "./images/cardapio/sucos/suco-de-abacate.webp",
                 "quantidade": "200ml",
                 "ingredientes": [
                     "Abacate",
-                    "Laranja",
                     "Água"
                 ],
                 "tabela_nutricional": {
@@ -710,6 +711,7 @@
             },
             {
                 "nome": "Suco de Abacaxi com Hortelã",
+                "image": "./images/cardapio/sucos/suco-de-abacaxi-com-hortela.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -727,6 +729,7 @@
             },
             {
                 "nome": "Suco de Cenoura com Laranja",
+                "image": "./images/cardapio/sucos/suco-de-cenoura-com-laranja.webp",
                 "preco_por_grama": 0.04,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -744,6 +747,7 @@
             },
             {
                 "nome": "Suco de Limão com Hortelã",
+                "image": "./images/cardapio/sucos/suco-de-limao-com-hortela.webp",
                 "preco_por_grama": 0.03,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -761,6 +765,7 @@
             },
             {
                 "nome": "Suco de Laranja",
+                "image": "./images/cardapio/sucos/suco-de-laranja.webp",
                 "preco_por_grama": 0.04,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -777,6 +782,7 @@
             },
             {
                 "nome": "Suco de Melancia",
+                "image": "./images/cardapio/sucos/suco-de-melancia.webp",
                 "preco_por_grama": 0.02,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -793,6 +799,7 @@
             },
             {
                 "nome": "Suco de Morango com Limão",
+                "image": "./images/cardapio/sucos/suco-de-morango-com-limao.webp",
                 "preco_por_grama": 0.07,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -810,6 +817,7 @@
             },
             {
                 "nome": "Suco de Pêssego",
+                "image": "./images/cardapio/sucos/suco-de-pessego.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -826,6 +834,7 @@
             },
             {
                 "nome": "Suco de Uva Integral",
+                "image": "./images/cardapio/sucos/suco-de-uva-integral.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "ingredientes": [
