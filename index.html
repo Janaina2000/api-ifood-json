@@ -1,27 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Produtos</title>
+</head>
 <body>
-    <h1>Minha API de Dados JSON</h1>
-
-    <pre id="data-container"></pre> <!-- Área para exibir os dados -->
+    <h1>Produtos</h1>
+    <div id="produtos-container"></div>
 
     <script>
-        const url = "https://janaina2000.github.io/api-ifood-json/api.js";
+        // URL do arquivo JSON hospedado no GitHub
+        const jsonUrl = 'https://janaina2000.github.io/api-ifood-json/api.json';
 
-        fetch(url)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error("Erro na rede");
-                }
-                return response.json();
-            })
+        // Carregar o arquivo JSON
+        fetch(jsonUrl)
+            .then(response => response.json())  // Converte a resposta para um objeto JavaScript
             .then(data => {
-                console.log("Dados recebidos:", data);
-                // Exibir os dados na página
-                const container = document.getElementById("data-container");
-                container.innerHTML = JSON.stringify(data, null, 2); // Exibe os dados formatados
+                const baseUrl = window.location.origin;  // Obtém a URL base atual (ex: https://janaina2000.github.io)
+
+                // Acessa a lista de produtos (ajuste conforme a estrutura do JSON)
+                const produtos = data.produtos || [];  // Verifique a estrutura do JSON
+
+                // Cria o container para os produtos
+                const produtosContainer = document.getElementById('produtos-container');
+                
+                // Para cada produto, ajusta o caminho da imagem e exibe
+                produtos.forEach(produto => {
+                    produto.image = `${baseUrl}${produto.image}`;  // Ajusta o caminho da imagem com a URL base
+
+                    // Cria os elementos HTML para exibir o produto
+                    const produtoElement = document.createElement('div');
+                    produtoElement.classList.add('produto');
+
+                    // Exibe o nome do produto
+                    const nomeElement = document.createElement('h2');
+                    nomeElement.textContent = produto.nome;
+                    produtoElement.appendChild(nomeElement);
+
+                    // Exibe a imagem do produto
+                    const imgElement = document.createElement('img');
+                    imgElement.src = produto.image;  // Caminho da imagem atualizado
+                    imgElement.alt = produto.nome;
+                    produtoElement.appendChild(imgElement);
+
+                    // Exibe o preço do produto
+                    const precoElement = document.createElement('p');
+                    precoElement.textContent = `Preço por grama: R$ ${produto.preco_por_grama}`;
+                    produtoElement.appendChild(precoElement);
+
+                    // Adiciona o produto no container
+                    produtosContainer.appendChild(produtoElement);
+                });
             })
-            .catch(error => {
-                console.error("Erro ao acessar a API:", error);
-            });
+            .catch(error => console.error('Erro ao carregar o JSON:', error));
     </script>
-    <script
 </body>
+</html>
