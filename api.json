@@ -3,7 +3,7 @@
         "frutas": [
             {
                 "nome": "Abacate",
-                "image": "./images/cardapio/frutas/abacate.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/abacate.webp",
                 "preco_por_grama": 0.09,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -16,7 +16,7 @@
             },
             {
                 "nome": "Abacaxi",
-                "image": "./images/cardapio/frutas/abacaxi.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/abacaxi.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -29,7 +29,7 @@
             },
             {
                 "nome": "Banana",
-                "image": "./images/cardapio/frutas/banana.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/banana.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -42,7 +42,7 @@
             },
             {
                 "nome": "Laranja",
-                "image": "./images/cardapio/frutas/laranja.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/laranja.webp",
                 "preco_por_grama": 0.04,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -55,7 +55,7 @@
             },
             {
                 "nome": "Limão",
-                "image": "./images/cardapio/frutas/limao.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/limao.webp",
                 "preco_por_grama": 0.03,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -68,7 +68,7 @@
             },
             {
                 "nome": "Manga",
-                "image": "./images/cardapio/frutas/manga.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/manga.webp",
                 "preco_por_grama": 0.07,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -81,7 +81,7 @@
             },
             {
                 "nome": "Melancia",
-                "image": "./images/cardapio/frutas/melancia.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/melancia.webp",
                 "preco_por_grama": 0.02,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -94,7 +94,7 @@
             },
             {
                 "nome": "Morango",
-                "image": "./images/cardapio/frutas/morango.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/morango.webp",
                 "preco_por_grama": 0.07,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -107,7 +107,7 @@
             },
             {
                 "nome": "Pera",
-                "image": "./images/cardapio/frutas/pera.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/pera.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -120,7 +120,7 @@
             },
             {
                 "nome": "Pêssego",
-                "image": "./images/cardapio/frutas/pessego.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/pessego.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -133,7 +133,7 @@
             },
             {
                 "nome": "Uva",
-                "image": "./images/cardapio/frutas/uva.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/frutas/uva.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "tabela_nutricional": {
@@ -150,7 +150,7 @@
             "proteinas": [
                 {
                     "nome": "Carne de Sol",
-                    "image": "./images/cardapio/proteinas/carne-de-sol.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/carne-de-sol.webp",
                     "preco_por_grama": 0.07,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -163,7 +163,7 @@
                 },
                 {
                     "nome": "Carne Moída",
-                    "image": "./images/cardapio/proteinas/carne-moida.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/carne-moida.webp",
                     "preco_por_grama": 0.09,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -176,7 +176,7 @@
                 },
                 {
                     "nome": "Cogumelos",
-                    "image": "./images/cardapio/proteinas/cagumelos.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/cagumelos.webp",
                     "preco_por_grama": 0.03,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -189,7 +189,7 @@
                 },
                 {
                     "nome": "Frango Grelhado",
-                    "image": "./images/cardapio/proteinas/frango-grelhado.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/frango-grelhado.webp",
                     "preco_por_grama": 0.05,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -202,7 +202,7 @@
                 },
                 {
                     "nome": "Ovos Cozidos",
-                    "image": "./images/cardapio/proteinas/ovos-cozidos.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/ovos-cozidos.webp",
                     "preco_por_grama": 0.05,
                     "quantidade": "50g",
                     "tabela_nutricional": {
@@ -215,7 +215,7 @@
                 },
                 {
                     "nome": "Peito de Frango Cozido",
-                    "image": "./images/cardapio/proteinas/peito-de-frango-cozido.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/peito-de-frango-cozido.webp",
                     "preco_por_grama": 0.06,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -228,7 +228,7 @@
                 },
                 {
                     "nome": "Peito de Frango Grelhado",
-                    "image": "./images/cardapio/proteinas/peito-de-frango-grelhado.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/peito-de-frango-grelhado.webp",
                     "preco_por_grama": 0.05,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -241,7 +241,7 @@
                 },
                 {
                     "nome": "Peixe (Tilápia)",
-                    "image": "./images/cardapio/proteinas/tilapia-grelhada.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/proteinas/tilapia-grelhada.webp",
                     "preco_por_grama": 0.08,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -256,7 +256,7 @@
             "carboidratos": [
                 {
                     "nome": "Abobrinha",
-                    "image": "./images/cardapio/carboidratos/abobrinha.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/abobrinha.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -269,7 +269,7 @@
                 },
                 {
                     "nome": "Arroz Branco",
-                    "image": "./images/cardapio/carboidratos/arroz-branco.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/arroz-branco.webp",
                     "preco_por_grama": 0.03,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -282,7 +282,7 @@
                 },
                 {
                     "nome": "Arroz Integral",
-                    "image": "./images/cardapio/carboidratos/arroz-integral.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/arroz-integral.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -295,7 +295,7 @@
                 },
                 {
                     "nome": "Batata Doce",
-                    "image": "./images/cardapio/carboidratos/batata-doce.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/batata-doce.webp",
                     "preco_por_grama": 0.04,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -308,7 +308,7 @@
                 },
                 {
                     "nome": "Batata Inglesa",
-                    "image": "./images/cardapio/carboidratos/batata-inglesa.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/batata-inglesa.webp",
                     "preco_por_grama": 0.03,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -321,7 +321,7 @@
                 },
                 {
                     "nome": "Cenoura",
-                    "image": "./images/cardapio/carboidratos/cenoura.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/cenoura.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -334,7 +334,7 @@
                 },
                 {
                     "nome": "Macarrão Integral",
-                    "image": "./images/cardapio/carboidratos/macarrao-integral.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/macarrao-integral.webp",
                     "preco_por_grama": 0.04,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -347,7 +347,7 @@
                 },
                 {
                     "nome": "Quinoa",
-                    "image": "./images/cardapio/carboidratos/quinoa.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/carboidratos/quinoa.webp",
                     "preco_por_grama": 0.07,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -362,7 +362,7 @@
             "gorduras": [
                 {
                     "nome": "Abacate",
-                    "image": "./images/cardapio/gorduras/abacate.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/gorduras/abacate.webp",
                     "preco_por_grama": 0.10,
                     "quantidade": "50g",
                     "tabela_nutricional": {
@@ -375,7 +375,7 @@
                 },
                 {
                     "nome": "Amêndoas",
-                    "image": "./images/cardapio/gorduras/amendoas.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/gorduras/amendoas.webp",
                     "preco_por_grama": 0.08,
                     "quantidade": "30g",
                     "tabela_nutricional": {
@@ -388,7 +388,7 @@
                 },
                 {
                     "nome": "Azeitona",
-                    "image": "./images/cardapio/gorduras/azeitona.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/gorduras/azeitona.webp",
                     "preco_por_grama": 0.07,
                     "quantidade": "30g",
                     "tabela_nutricional": {
@@ -401,7 +401,7 @@
                 },
                 {
                     "nome": "Castanha do Pará",
-                    "image": "./images/cardapio/gorduras/castanha-do-para.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/gorduras/castanha-do-para.webp",
                     "preco_por_grama": 0.10,
                     "quantidade": "30g",
                     "tabela_nutricional": {
@@ -414,7 +414,7 @@
                 },
                 {
                     "nome": "Salmão",
-                    "image": "./images/cardapio/gorduras/salmao.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/gorduras/salmao.webp",
                     "preco_por_grama": 0.12,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -431,7 +431,7 @@
             "folhas": [
                 {
                     "nome": "Alface",
-                    "image": "./images/cardapio/saladas/alface.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/alface.webp",
                     "preco_por_grama": 0.01,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -444,7 +444,7 @@
                 },
                 {
                     "nome": "Rúcula",
-                    "image": "./images/cardapio/saladas/rucula.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/rucula.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -457,7 +457,7 @@
                 },
                 {
                     "nome": "Espinafre",
-                    "image": "./images/cardapio/saladas/espinafre.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/espinafre.webp",
                     "preco_por_grama": 0.04,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -470,7 +470,7 @@
                 },
                 {
                     "nome": "Almeirão",
-                    "image": "./images/cardapio/saladas/almeirao.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/almeirao.webp",
                     "preco_por_grama": 0.03,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -485,7 +485,7 @@
             "legumes": [
                 {
                     "nome": "Cenoura",
-                    "image": "./images/cardapio/saladas/cenoura.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/cenoura.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -498,7 +498,7 @@
                 },
                 {
                     "nome": "Beterraba",
-                    "image": "./images/cardapio/saladas/beterraba.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/beterraba.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -511,7 +511,7 @@
                 },
                 {
                     "nome": "Pepino",
-                    "image": "./images/cardapio/saladas/pepino.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/pepino.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -524,7 +524,7 @@
                 },
                 {
                     "nome": "Abobrinha",
-                    "image": "./images/cardapio/saladas/abobrinha.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/abobrinha.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -537,7 +537,7 @@
                 },
                 {
                     "nome": "Cogumelos",
-                    "image": "./images/cardapio/saladas/cogumelos.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/cogumelos.webp",
                     "preco_por_grama": 0.03,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -550,7 +550,7 @@
                 },
                 {
                     "nome": "Repolho",
-                    "image": "./images/cardapio/saladas/repolho.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/repolho.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -565,7 +565,7 @@
             "temperos": [
                 {
                     "nome": "Azeite de Oliva",
-                    "image": "./images/cardapio/saladas/azeite-de-olivia.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/azeite-de-olivia.webp",
                     "preco_por_grama": 0.07,
                     "quantidade": "15g",
                     "tabela_nutricional": {
@@ -578,7 +578,7 @@
                 },
                 {
                     "nome": "Limão",
-                    "image": "./images/cardapio/saladas/limao.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/limao.webp",
                     "preco_por_grama": 0.02,
                     "quantidade": "10g",
                     "tabela_nutricional": {
@@ -591,7 +591,7 @@
                 },
                 {
                     "nome": "Sal",
-                    "image": "./images/cardapio/saladas/sal.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/sal.webp",
                     "preco_por_grama": 0.01,
                     "quantidade": "5g",
                     "tabela_nutricional": {
@@ -604,7 +604,7 @@
                 },
                 {
                     "nome": "Pimenta do reino",
-                    "image": "./images/cardapio/saladas/pimenta-do-reino.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/pimenta-do-reino.webp",
                     "preco_por_grama": 0.05,
                     "quantidade": "1g",
                     "tabela_nutricional": {
@@ -619,7 +619,7 @@
             "proteinas_adicionais": [
                 {
                     "nome": "Frango Desfiado",
-                    "image": "./images/cardapio/saladas/frango-desfiado.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/frango-desfiado.webp",
                     "preco_por_grama": 0.06,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -632,7 +632,7 @@
                 },
                 {
                     "nome": "Atum Desfiado",
-                    "image": "./images/cardapio/saladas/atum-desfiado.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/atum-desfiado.webp",
                     "preco_por_grama": 0.08,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -645,7 +645,7 @@
                 },
                 {
                     "nome": "Queijo Cottage",
-                    "image": "./images/cardapio/saladas/queijo-cottage.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/queijo-cottage.webp",
                     "preco_por_grama": 0.05,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -658,7 +658,7 @@
                 },
                 {
                     "nome": "Queijo Minas Frescal",
-                    "image": "./images/cardapio/saladas/queijo-fresco.webp",
+                    "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/saladas/queijo-fresco.webp",
                     "preco_por_grama": 0.07,
                     "quantidade": "100g",
                     "tabela_nutricional": {
@@ -674,7 +674,7 @@
         "sucos": [
             {
                 "nome": "Suco Verde (Couve, Limão, Maçã e Gengibre)",
-                "image": "./images/cardapio/sucos/suco-verde.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-verde.webp",
                 "preco_por_grama": 0.06,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -695,7 +695,7 @@
             {
                 "nome": "Suco de Abacate",
                 "preco_por_grama": 0.09,
-                "image": "./images/cardapio/sucos/suco-de-abacate.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-abacate.webp",
                 "quantidade": "200ml",
                 "ingredientes": [
                     "Abacate",
@@ -711,7 +711,7 @@
             },
             {
                 "nome": "Suco de Abacaxi com Hortelã",
-                "image": "./images/cardapio/sucos/suco-de-abacaxi-com-hortela.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-abacaxi-com-hortela.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -729,7 +729,7 @@
             },
             {
                 "nome": "Suco de Cenoura com Laranja",
-                "image": "./images/cardapio/sucos/suco-de-cenoura-com-laranja.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-cenoura-com-laranja.webp",
                 "preco_por_grama": 0.04,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -747,7 +747,7 @@
             },
             {
                 "nome": "Suco de Limão com Hortelã",
-                "image": "./images/cardapio/sucos/suco-de-limao-com-hortela.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-limao-com-hortela.webp",
                 "preco_por_grama": 0.03,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -765,7 +765,7 @@
             },
             {
                 "nome": "Suco de Laranja",
-                "image": "./images/cardapio/sucos/suco-de-laranja.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-laranja.webp",
                 "preco_por_grama": 0.04,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -782,7 +782,7 @@
             },
             {
                 "nome": "Suco de Melancia",
-                "image": "./images/cardapio/sucos/suco-de-melancia.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-melancia.webp",
                 "preco_por_grama": 0.02,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -799,7 +799,7 @@
             },
             {
                 "nome": "Suco de Morango com Limão",
-                "image": "./images/cardapio/sucos/suco-de-morango-com-limao.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-morango-com-limao.webp",
                 "preco_por_grama": 0.07,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -817,7 +817,7 @@
             },
             {
                 "nome": "Suco de Pêssego",
-                "image": "./images/cardapio/sucos/suco-de-pessego.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-pessego.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "ingredientes": [
@@ -834,7 +834,7 @@
             },
             {
                 "nome": "Suco de Uva Integral",
-                "image": "./images/cardapio/sucos/suco-de-uva-integral.webp",
+                "image": "https://janaina2000.github.io/api-ifood-json/images/cardapio/sucos/suco-de-uva-integral.webp",
                 "preco_por_grama": 0.05,
                 "quantidade": "200ml",
                 "ingredientes": [
