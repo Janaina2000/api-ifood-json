@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha API</title>
+</head>
+<body>
+    <h1>Minha API de Dados JSON</h1>
+
+    <script>
+        // URL onde o arquivo JSON está hospedado
+        const url = "https://seunome.github.io/seurepositorio/nomedoarquivo.json";
+
+        // Função para buscar o arquivo JSON e manipular os dados
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Erro na rede");
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log("Dados recebidos:", data);
+                // Aqui você pode usar os dados como preferir
+            })
+            .catch(error => {
+                console.error("Erro ao acessar a API:", error);
+            });
+    </script>
+</body>
+</html>
